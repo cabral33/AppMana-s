@@ -8,5 +8,8 @@
  - [UI & UX](https://www.figma.com)
 - [SQLite](https://www.sqlite.org)
 
-<h3> 📱 Imagens do Projeto Mobile </br> </br> 
+<h3> 📱 Imagens do Prototipo fase inicial </br> </br> 
+<p  align="center">
+ 
+
 
