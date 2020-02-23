@@ -13,6 +13,11 @@
  <img src="https://github.com/cabral33/AppManaos/blob/master/Prototipos/PrototipoManaos.png?raw=true" width=60% />
  </p>
  </h2>
+ <p>
+ </p>
+ 
+ ## :calling: Gostou do projeto e quer entrar em contato ou até mesmo trocar uma ideia sobre :trollface:
+  - [Linkedin](https://www.linkedin.com/in/lucas-cabral-452521150/)
  
 
 
