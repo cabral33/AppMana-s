@@ -4,8 +4,8 @@
  ## :pencil2: As Tecnologias usadas no projeto (no momento)
  - [Android](https://developer.android.com)
  - [IDE Android Studio](https://developer.android.com/studio)
- - [UI & UX](https://marvelapp.com)
- - [UI & UX](https://www.figma.com)
+ - [MarvelApp](https://marvelapp.com)
+ - [Figma](https://www.figma.com)
 - [SQLite](https://www.sqlite.org)
 
 <h2> 📱 Imagens do Prototipo fase inicial 
