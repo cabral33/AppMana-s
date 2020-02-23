@@ -9,7 +9,9 @@
 - [SQLite](https://www.sqlite.org)
 
 <h3> 📱 Imagens do Prototipo fase inicial </br> </br> 
+<p  align="center">
  <img src="https://github.com/cabral33/AppManaos/blob/master/Prototipos/PrototipoManaos.png?raw=true" width=50% />
+ </p>
  </h3>
  
 
