@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppManaos</string>
+    <string name="senha">Senha</string>
+    <string name="N_do_Cartao">N° do Cartão</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="reset_senha">Esqueceu a Senha? clique</string>
+    <string name="cadastro">Não tem cartão? Clique</string>
 </resources>

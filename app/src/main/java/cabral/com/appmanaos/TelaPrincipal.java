@@ -1,15 +1,16 @@
 package cabral.com.appmanaos;
 
-import androidx.appcompat.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import androidx.annotation.Nullable;
+
+public class TelaPrincipal extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-
+        setContentView(R.layout.tela_principal);
     }
+
 }

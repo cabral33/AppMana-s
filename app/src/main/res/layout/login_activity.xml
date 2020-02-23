@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_margin="80dp"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/numeroCartao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:inputType="numberDecimal"
+            android:background="@drawable/formatobtn"
+            android:hint="@string/N_do_Cartao"
+            android:textAlignment="center">
+        </EditText>
+
+        <EditText
+            android:id="@+id/textSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textSize="25dp"
+            android:inputType="numberPassword"
+            android:background="@drawable/formatobtn"
+            android:hint="@string/senha"
+            android:textAlignment="center">
+        </EditText>
+
+        <Button
+            android:onClick="btnLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textSize="29dp"
+            android:background="@drawable/formatobtn"
+            android:textStyle="bold"
+            android:hint="@string/btnEntrar"/>
+
+        <TextView
+            android:layout_marginTop="100dp"
+            android:clickable="true"
+            android:onClick="resetSenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:text="@string/reset_senha" />
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:clickable="true"
+            android:onClick="novoUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:text="@string/cadastro" />
+
+    </LinearLayout>
+</LinearLayout>
