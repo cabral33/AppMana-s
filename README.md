@@ -10,7 +10,7 @@
 
 <h2> 📱 Imagens do Prototipo fase inicial 
 <p  align="center">
- <img src="https://github.com/cabral33/AppManaos/blob/master/Prototipos/PrototipoManaos.png?raw=true" width=70% />
+ <img src="https://github.com/cabral33/AppManaos/blob/master/Prototipos/PrototipoManaos.png?raw=true" width=50% />
  </p>
  </h2>
  
