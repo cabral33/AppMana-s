@@ -1,5 +1,5 @@
 ## 💻 Projeto AppManaos
- :rocket: Um App para facilitar pagamentos e recarga de carteirinhas de transporte (estudantil e cidadão) em manaus!
+ :rocket: Um App para facilitar pagamentos e recarga de carteirinhas de transporte (estudantil e cidadão) em manaus! :rocket:
  
  ## As Tecnologias usadas no projeto (no momento)
  - [Android](https://developer.android.com)
@@ -8,5 +8,5 @@
  - [UI & UX](https://www.figma.com)
 - [SQLite](https://www.sqlite.org)
 
- 
+<h3> 📱 Imagens do Projeto Mobile </br> </br> 
 
