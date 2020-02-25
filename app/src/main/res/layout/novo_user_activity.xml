@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_row="10"
+    android:columnCount="10"
+    android:background="@color/corFundo">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Sobre você"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:background="@android:color/darker_gray"/>
+
+    <EditText
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_marginTop="5dp"
+        android:id="@+id/textnome"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/nome_Completo"
+        android:textAlignment="center"
+        android:background="@drawable/formatobtn"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/user_cpf"
+        android:layout_marginTop="5dp"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/CPF_Completo"
+        android:background="@drawable/formatobtn"
+        android:textAlignment="center"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/user_cep"
+        android:layout_width="140dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="40dp"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/formatobtn"
+        android:hint="@string/CEP"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/use_genero"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="190dp"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/formatobtn"
+        android:hint="@string/genero"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_row="5"
+        android:columnCount="5" >
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Seus Dados"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:background="@android:color/darker_gray"/>
+
+        <EditText
+            android:id="@+id/nome_mae"
+            android:layout_marginTop="5dp"
+            android:layout_row="1"
+            android:layout_column="0"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="@string/CPF_Completo"
+            android:background="@drawable/formatobtn"
+            android:textAlignment="center"
+            android:textSize="20dp"/>
+
+
+    </GridLayout>
+</GridLayout>

@@ -5,4 +5,9 @@
     <string name="btnEntrar">Entrar</string>
     <string name="reset_senha">Esqueceu a Senha? clique</string>
     <string name="cadastro">Não tem cartão? Clique</string>
+    <string name="nome_Completo">Nome Completo</string>
+    <string name="CPF_Completo">Digite seu CPF</string>
+    <string name="data_nascimento">Data de Nascimento</string>
+    <string name="CEP">Seu CEP</string>
+    <string name="genero">Genero</string>
 </resources>

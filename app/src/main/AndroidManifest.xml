@@ -17,6 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".TelaPrincipal"/>
+        <activity android:name=".Slade_Cpf"/>
+        <activity android:name=".NovoCadastro"/>
+
     </application>
 
 </manifest>
